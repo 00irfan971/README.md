@@ -1,0 +1,10 @@
+-module(helloworld).
+-export([start/0]).
+
+start() ->
+    {ok,X}=io:fread("input:","~d"),
+    
+    %bro, i came like a little late cause I had a robocon meet, but I did learn something in the last 20 minutes about a new language and would be stoked to learn more with you guys. And trust me I will surprise you guys.
+    %When I saw the question,What I did was I opened an online erlang compiler and a small erlang tutorial and started trying out basic
+    syntaxes, I learned the root syntax of erlang, how to print basic strings and even how to input integers from the user. 
+    with some more time and some beatiful guidance from u guys I can fly to greater heights.
